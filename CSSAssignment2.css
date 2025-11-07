@@ -1,0 +1,35 @@
+/* doc background */
+body {
+    background-color: black;
+    color: red;
+    font-family: "Arial";
+}
+
+/* Headings */
+h1 {
+    color: pink;
+    font-family: "Arial";}
+
+h2 {
+    color: pink;
+    font-family: "Arial";}
+h3 {
+    color: pink;
+    font-family: "Arial";}
+h4 {
+    color: pink;
+    font-family: "Arial";}
+h5 {
+    color: pink;
+    font-family: "Arial";}
+h6 {
+    color: pink;
+    font-family: "Arial";}
+h7 {
+    color: pink;
+    font-family: "Arial";}
+
+/* Paragraph text */
+p {
+    color: red;
+    font-family: "Arial";
